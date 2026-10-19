@@ -6,7 +6,7 @@
 
 An **Internet of Things & Robotics Engineering** scholar specializing in **Embedded Systems, Real-Time Operating Systems (RTOS), Systems Programming, and Mobile Application Architecture**. Experienced in developing low-latency IoT frameworks, custom language transpilers, cross-platform mobile systems, and interactive 3D graphics applications.
 
----
+
 
 ## 🛠️ Technical Competencies
 
@@ -17,7 +17,7 @@ An **Internet of Things & Robotics Engineering** scholar specializing in **Embed
 | **Mobile & Cloud Solutions** | Flutter, Dart, Firebase Auth, Cloud Firestore | MQTT, Google Maps API, REST APIs, Node-RED |
 | **Machine Learning & Analytics** | Python, Scikit-Learn, Pandas, NLP | Supervised Learning (SVM, Random Forest, Logistic Regression) |
 
----
+
 
 ## 🚀 Featured Engineering Projects
 
@@ -55,7 +55,6 @@ An **Internet of Things & Robotics Engineering** scholar specializing in **Embed
 * **Spatial Transformation Logic**: Built state finalization routines (`rotateLayer`) that execute 2D matrix coordinate transformations and cycle sticker color arrays upon turn completion.
 * 📁 [View Project Repository](https://github.com/parvej-mosaraf)
 
----
 
 ## 🔬 Additional Engineering Projects
 
@@ -67,7 +66,6 @@ An **Internet of Things & Robotics Engineering** scholar specializing in **Embed
 | **Automated Battery Charger** | Power Electronics | Circuit design utilizing LM317T voltage regulation with automated cutoff features to protect battery health. | [Repository](https://github.com/parvej-mosaraf) |
 | **Smart Home Automation** | IoT / Microcontrollers | Blynk-integrated micro-controller automation system featuring environmental monitoring and keypad locks. | [Repository](https://github.com/parvej-mosaraf) |
 
----
 
 ## 🎓 Academic Background
 
@@ -75,9 +73,10 @@ An **Internet of Things & Robotics Engineering** scholar specializing in **Embed
 * **Institution:** University of Frontier Technology, Bangladesh
 * **Academic Achievement:** Consistent high academic standing across secondary and higher secondary education (PSC, JSC, SSC, HSC: 5.00/5.00).
 
+
 ## 📜 Certifications
 
-* **CCNA (Cisco Certified Network Associate)** — Cisco
+* **CCNA: Introduction to Networks** — CISCO
   <br>
   <a href="https://www.credly.com/badges/df0fba09-744c-4f21-a897-142ab4bc17ef/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="110" alt="CCNA Badge">
