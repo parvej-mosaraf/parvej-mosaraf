@@ -74,3 +74,11 @@ An **Internet of Things & Robotics Engineering** scholar specializing in **Embed
 * **Degree:** B.Sc. in Internet of Things & Robotics Engineering (IRE)
 * **Institution:** University of Frontier Technology, Bangladesh
 * **Academic Achievement:** Consistent high academic standing across secondary and higher secondary education (PSC, JSC, SSC, HSC: 5.00/5.00).
+
+## 📜 Certifications
+
+* **CCNA (Cisco Certified Network Associate)** — Cisco
+  <br>
+  <a href="https://www.credly.com/badges/df0fba09-744c-4f21-a897-142ab4bc17ef/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="110" alt="CCNA Badge">
+  </a>
